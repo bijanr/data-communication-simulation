@@ -21,7 +21,9 @@ noise.py : inserts noise inside the graph <br>
 graph.py : main matplotlib code to execute and print all the graphs using the lists from plot.py and noise.py <br>
 decoding.py : decodes the graph with noise and finds the error percentage <br>
 <br>
+
 ## Non Return to Zero - Inverted
+
 <br>
 INITIALISATION <br>
     string : the binary stream <br>
@@ -43,7 +45,9 @@ noise.py : inserts noise inside the graph <br>
 graph.py : main matplotlib code to execute and print all the graphs using the lists from plot.py and noise.py <br>
 decoding.py : decodes the graph with noise and finds the error percentage <br>
 <br>
+
 ## Quadrature Amplitude Modulation
+
 <br>
 qam_list.py : plots the decoded qam graph <br>
 graycode_generator : native graycode generator using xor and 'implementing an algorithm for appending the bits by zero for better calculation' <br>
