@@ -31,7 +31,7 @@ INITIALISATION <br>
     length : the length of binary stream <br>
     n : voltage limit <br>
 <br>
-WORKING 
+WORKING <br>
     nrz-i[] : the nrz-i plotting using xor  <br>
     volt_list[] : the binary stream in voltage array form <br>
     square_list[] : (usually the y axis) manipulating volt_list in graph form depending on the respective time <br>
